@@ -1,4 +1,4 @@
-![Credit Card Customer Dasboard](https://github.com/user-attachments/assets/5dce6cb6-b5ba-4e78-9e0b-df6a1538bf17)# Dashboards
+# Dashboards
 
 This repository contains interactive dashboards and data analysis projects I've created. These projects focus on visualizing data trends and insights across various business scenarios to help drive data-informed decisions.
 
