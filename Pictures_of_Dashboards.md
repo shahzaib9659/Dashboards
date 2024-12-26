@@ -6,6 +6,7 @@
 ![D1](https://github.com/user-attachments/assets/3e92e3f0-3b03-4cf8-8b01-8b051191cbe1)
 ![D2](https://github.com/user-attachments/assets/5d9285c7-b8e3-48ad-99a5-27a82a6fd716)
 ## QuantumEdge Sales Data
-![D2](https://github.com/user-attachments/assets/ef43b866-ef61-42ef-ba77-ad718ee6d088)
+![QuantumEdge Dashboard](https://github.com/user-attachments/assets/b0c578e0-19db-481e-805c-072ead468cd2)
+
 
 
