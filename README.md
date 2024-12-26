@@ -27,7 +27,7 @@ This Power BI project provides an interactive analysis of the ICC Men's T20 Worl
 **Skills and Tools Used** Power BI and DAX Queries
 
 ---
-### 2. 𝐌𝐚𝐝𝐡𝐚𝐯 𝐄𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
+### 2. 𝐄𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
 
 I analyzed Madhav Ecommerce's sales data and created a dynamic dashboard using Power BI. The dashboard offers deep insights into key metrics, such as total revenue, product performance, and customer behavior, to help businesses optimize their strategies.
 
@@ -40,7 +40,7 @@ I analyzed Madhav Ecommerce's sales data and created a dynamic dashboard using P
 
 ---
 
-### 3. 𝐁𝐢𝐤𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐧𝐝 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧
+### 3. Wheel House Data 
 
 The goal of this project was to gather, clean, and analyze bike sales data to extract actionable insights. The analysis focused on sales trends, revenue distribution by product and country, and customer segmentation by age group.
 
@@ -54,7 +54,7 @@ The goal of this project was to gather, clean, and analyze bike sales data to ex
 
 ---
 
-### 4. 𝐓𝐞𝐜𝐡𝐧𝐨𝐄𝐝𝐠𝐞 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚
+### 4. Quantum𝐄𝐝𝐠𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚
 
 This sales analysis report visualizes TechnoEdge's sales data from 2019 to 2022. The dashboard highlights important metrics and sales performance insights, allowing for better business decisions.
 
@@ -74,7 +74,7 @@ This sales analysis report visualizes TechnoEdge's sales data from 2019 to 2022.
 
 ---
 
-### 5. 𝐂𝐫𝐞𝐝𝐢𝐭 𝐂𝐚𝐫𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭
+### 5. 𝐂𝐚𝐫𝐝 Insights 𝐑𝐞𝐩𝐨𝐫𝐭
 
 This project analyzes credit card customer demographics and transaction details through two dynamic Power BI dashboards.
 
