@@ -27,7 +27,28 @@ This Power BI project provides an interactive analysis of the ICC Men's T20 Worl
 **Skills and Tools Used** Power BI and DAX Queries
 
 ---
-### 2. Ecommerece Sales Data
+### 2. Finance Data Dashboard
+
+This financial performance dashboard analyzes income, expenses, and savings trends from 2018 to 2021. The dashboard provides key financial metrics and detailed insights into spending patterns and savings strategies, supporting effective personal finance management.
+
+**Key Metrics:**
+- Total income: ₹1.51M  
+- Total expenses: ₹1.18M  
+- Total savings: ₹325.5K (22% savings rate)  
+- Net worth generated: ₹325.5K  
+- Expense categories: House rent (40.44%), groceries (24.2%), EMIs (21.4%)  
+
+**Visualization Highlights:**
+- Bar chart for spending breakdown by category  
+- Line chart for income, expenses, and savings percentage trends  
+- Bar chart for savings allocation: Mutual funds (71.58%), emergency fund (14.44%), fixed deposit (13.67%)  
+- Time-series analysis of total expenses, income, and net worth growth  
+
+**Tools Used:** Power BI
+
+---
+
+### 3. Ecommerece Sales Data
 
 I analyzed Madhav Ecommerce's sales data and created a dynamic dashboard using Power BI. The dashboard offers deep insights into key metrics, such as total revenue, product performance, and customer behavior, to help businesses optimize their strategies.
 
@@ -40,7 +61,7 @@ I analyzed Madhav Ecommerce's sales data and created a dynamic dashboard using P
 
 ---
 
-### 3. Wheel House Data 
+### 4. Wheel House Data 
 
 The goal of this project was to gather, clean, and analyze bike sales data to extract actionable insights. The analysis focused on sales trends, revenue distribution by product and country, and customer segmentation by age group.
 
@@ -54,7 +75,7 @@ The goal of this project was to gather, clean, and analyze bike sales data to ex
 
 ---
 
-### 4. QuantumEdge Sales Data
+### 5. QuantumEdge Sales Data
 
 This sales analysis report visualizes TechnoEdge's sales data from 2019 to 2022. The dashboard highlights important metrics and sales performance insights, allowing for better business decisions.
 
@@ -74,7 +95,7 @@ This sales analysis report visualizes TechnoEdge's sales data from 2019 to 2022.
 
 ---
 
-### 5. Card Insigts Report
+### 6. Card Insigts Report
 
 This project analyzes credit card customer demographics and transaction details through two dynamic Power BI dashboards.
 
