@@ -49,9 +49,10 @@ This interactive Power BI dashboard analyzes sales performance, product trends, 
 - **Clustered Column Chart:** Brand-wise Actual vs Forecast Sales (2009)  
 - **Line Chart:** Top Customer’s Purchase Trend Over Time  
 - **Slicers:** Country and Brand filters for dynamic exploration
+
 **Tools Used:** Power BI, Dax Query, Power Query
 
-
+---
 ### 3. Finance Data Dashboard
 
 This financial performance dashboard analyzes income, expenses, and savings trends from 2018 to 2021. The dashboard provides key financial metrics and detailed insights into spending patterns and savings strategies, supporting effective personal finance management.
