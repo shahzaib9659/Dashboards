@@ -27,7 +27,32 @@ This Power BI project provides an interactive analysis of the ICC Men's T20 Worl
 **Skills and Tools Used** Power BI and DAX Queries
 
 ---
-### 2. Finance Data Dashboard
+### 2. Orion360 Sales & Forecast Analysis Dashboard
+
+This interactive Power BI dashboard analyzes sales performance, product trends, customer behavior, and forecast accuracy for tech products across 2008 and 2009. Built as part of a technical assessment, the report supports the sales team in identifying growth areas and making data-driven decisions.
+✅ **Features are:**
+
+#### 📁 Data Modeling & Cleaning
+- Connected **Sales**, **Customers**, **Products**, and **Forecast** tables with appropriate relationships  
+- Handled granularity differences between **Sales** (transactional) and **Forecast** (aggregated by Brand & Country)  
+- Built a **Date table** and corrected missing or inaccurate **customer data**  
+
+#### 📐 Key DAX Measures
+- `Total Sales`, `Sales 2008`, `Sales 2009`, `YoY Sales Growth`  
+- Product-wise and customer-wise sales calculations  
+- Brand-level comparison between **actual** and **forecasted** 2009 sales  
+
+#### 📊 Visualizations (One-Page Interactive Dashboard)
+- **Cards:** Total Sales, Sales 2008, Sales 2009  
+- **Bar Chart:** Top 10 Products by Sales  
+- **Table/Matrix:** Top Customers with expandable product-level purchase breakdown  
+- **Clustered Column Chart:** Brand-wise Actual vs Forecast Sales (2009)  
+- **Line Chart:** Top Customer’s Purchase Trend Over Time  
+- **Slicers:** Country and Brand filters for dynamic exploration
+**Tools Used:** Power BI, Dax Query, Power Query
+
+
+### 3. Finance Data Dashboard
 
 This financial performance dashboard analyzes income, expenses, and savings trends from 2018 to 2021. The dashboard provides key financial metrics and detailed insights into spending patterns and savings strategies, supporting effective personal finance management.
 
@@ -48,7 +73,7 @@ This financial performance dashboard analyzes income, expenses, and savings tren
 
 ---
 
-### 3. Ecommerece Sales Data
+### 4. Ecommerece Sales Data
 
 I analyzed Madhav Ecommerce's sales data and created a dynamic dashboard using Power BI. The dashboard offers deep insights into key metrics, such as total revenue, product performance, and customer behavior, to help businesses optimize their strategies.
 
@@ -61,7 +86,7 @@ I analyzed Madhav Ecommerce's sales data and created a dynamic dashboard using P
 
 ---
 
-### 4. Wheel House Data 
+### 5. Wheel House Data 
 
 The goal of this project was to gather, clean, and analyze bike sales data to extract actionable insights. The analysis focused on sales trends, revenue distribution by product and country, and customer segmentation by age group.
 
@@ -75,7 +100,7 @@ The goal of this project was to gather, clean, and analyze bike sales data to ex
 
 ---
 
-### 5. QuantumEdge Sales Data
+### 6. QuantumEdge Sales Data
 
 This sales analysis report visualizes TechnoEdge's sales data from 2019 to 2022. The dashboard highlights important metrics and sales performance insights, allowing for better business decisions.
 
@@ -95,7 +120,7 @@ This sales analysis report visualizes TechnoEdge's sales data from 2019 to 2022.
 
 ---
 
-### 6. Card Insigts Report
+### 7. Card Insigts Report
 
 This project analyzes credit card customer demographics and transaction details through two dynamic Power BI dashboards.
 
